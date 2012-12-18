@@ -19,7 +19,7 @@ namespace bamboo_test_project
         private void Form1_Load(object sender, EventArgs e)
         {
             // Version 1
-            string name = "Version 2";
+            string name = "Version 3";
 
 
         }
