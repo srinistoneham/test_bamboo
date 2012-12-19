@@ -5,4 +5,3 @@ C:\project\test_bamboo\bamboo_test_project\obj\x86\Debug\bamboo_test_project.Pro
 C:\project\test_bamboo\bamboo_test_project\obj\x86\Debug\bamboo_test_project.csproj.GenerateResource.Cache
 C:\project\test_bamboo\bamboo_test_project\obj\x86\Debug\bamboo_test_project.exe
 C:\project\test_bamboo\bamboo_test_project\obj\x86\Debug\bamboo_test_project.pdb
-C:\project\test_bamboo\bamboo_test_project\obj\x86\Debug\bamboo_test_project.csprojResolveAssemblyReference.cache
