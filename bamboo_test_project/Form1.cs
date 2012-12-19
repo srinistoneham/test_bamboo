@@ -19,7 +19,7 @@ namespace bamboo_test_project
         private void Form1_Load(object sender, EventArgs e)
         {
             // Version 4
-            string name = "Version 7ggddddddddddkljnmmnmnkjkjddgxxxxxxx";
+            string name = "Version 7ggddddddddddkljnmmnmnkjkjddgxsdgfsdxxxxxx";
             MessageBox.Show(name);
 
 
