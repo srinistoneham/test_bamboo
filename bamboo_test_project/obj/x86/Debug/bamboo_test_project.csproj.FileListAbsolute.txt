@@ -1,3 +1,4 @@
+C:\project\test_bamboo\bamboo_test_project\bin\Debug\bamboo_test_project.exe.config
 C:\project\test_bamboo\bamboo_test_project\bin\Debug\bamboo_test_project.exe
 C:\project\test_bamboo\bamboo_test_project\bin\Debug\bamboo_test_project.pdb
 C:\project\test_bamboo\bamboo_test_project\obj\x86\Debug\bamboo_test_project.Form1.resources
