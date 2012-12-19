@@ -20,6 +20,7 @@ namespace bamboo_test_project
         {
             // Version 4
             string name = "Version 5";
+            MessageBox.Show(name);
 
 
         }
