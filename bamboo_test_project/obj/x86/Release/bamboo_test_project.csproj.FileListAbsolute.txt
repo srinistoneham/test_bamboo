@@ -1,0 +1,8 @@
+C:\project\test_bamboo\bamboo_test_project\bin\Release\bamboo_test_project.exe.config
+C:\project\test_bamboo\bamboo_test_project\bin\Release\bamboo_test_project.exe
+C:\project\test_bamboo\bamboo_test_project\bin\Release\bamboo_test_project.pdb
+C:\project\test_bamboo\bamboo_test_project\obj\x86\Release\bamboo_test_project.Form1.resources
+C:\project\test_bamboo\bamboo_test_project\obj\x86\Release\bamboo_test_project.Properties.Resources.resources
+C:\project\test_bamboo\bamboo_test_project\obj\x86\Release\bamboo_test_project.csproj.GenerateResource.Cache
+C:\project\test_bamboo\bamboo_test_project\obj\x86\Release\bamboo_test_project.exe
+C:\project\test_bamboo\bamboo_test_project\obj\x86\Release\bamboo_test_project.pdb
